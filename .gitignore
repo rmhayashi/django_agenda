@@ -1,0 +1,10 @@
+Pip*
+__pycache__
+static
+media
+
+*.bak
+db.sqlite3
+*.env
+
+project/local_settings.py
