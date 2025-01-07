@@ -14,25 +14,4 @@ Este é um projeto de exemplo desenvolvido como parte de um curso de Django. O o
 - HTML/CSS: Frontend básico para visualização.
 
 
-## Estrutura do Projeto
-```
-agenda-simples/
-│
-├── agenda/                  # Aplicação principal
-│   ├── migrations/          # Migrações do banco de dados
-│   ├── templates/           # Templates HTML
-│   ├── views.py             # Lógica de visualização
-│   ├── models.py            # Modelos da agenda
-│   ├── urls.py              # Rotas da aplicação
-│
-├── mysite/                  # Configurações do projeto Django
-│   ├── settings.py          # Configurações gerais
-│   ├── urls.py              # Rotas do projeto
-│
-├── db.sqlite3               # Banco de dados SQLite
-├── manage.py                # Arquivo principal de gerenciamento do Django
-├── requirements.txt         # Dependências do projeto
-└── README.md                # Documentação do projeto
-
-
 - Este readme é apenas para exemplo de arquivo
